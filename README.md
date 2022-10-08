@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [artz.network](https://artz.network) and [niin.stream](https://niin.stream)
+- 🌱 I’m currently learning Go
+- ⚡ Fun fact: I Like Trains
+
 <!--
 **Uweb95/Uweb95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

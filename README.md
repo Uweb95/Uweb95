@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [artz.network](https://artz.network) and [niin.stream](https://niin.stream)
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working on [artz.network](https://artz.network)
+- 🌱 I’m currently learning React/Next.js
 - ⚡ Fun fact: I Like Trains
 
 <!--

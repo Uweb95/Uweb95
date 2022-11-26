@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React/Next.js
 - ⚡ Fun fact: I Like Trains
 
+Most commits are in customer branches, which are never merged into master. So Github doesn't count them.
 <!--
 **Uweb95/Uweb95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

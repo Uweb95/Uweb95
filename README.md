@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [artz.network](https://artz.network)
+- 🔭 I’m currently working on [Orbit Miner](https://orbitminer.de)
 - 🌱 I’m currently learning React/Next.js
 - ⚡ Fun fact: I Like Trains
 

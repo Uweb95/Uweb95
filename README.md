@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Orbit Miner](https://orbitminer.de)
-- 🌱 I’m currently learning React/Next.js
+<!--- 🌱 I’m currently learning nothing specific -->
 - ⚡ Fun fact: I Like Trains
 
 Most commits are in customer branches, which are never merged into master. So Github doesn't count them.

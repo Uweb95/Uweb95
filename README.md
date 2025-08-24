@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a backend developer for _AIC Architekten Ingenieur Consult Köhler & Co. KG_
-- 🌱 I am currently learning how to model 3D print models
+- 🌱 I am currently learning Godot
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Like Trains
+- 📫 How to reach me: [Discord](https://discordapp.com/users/889804923972222977) between 7am and 10pm CET/CEST
 
 ## Languages and Tools:
 <p align="left">

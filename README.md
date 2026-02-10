@@ -9,7 +9,7 @@
 ## Languages and Tools:
 <p align="left">
     <a href="https://www.php.net" target="_blank"><img src="https://avatars.githubusercontent.com/u/25158?s=200" height="50px"/></a>
-    <a href="https://learn.microsoft.com/de-de/dotnet/csharp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/512px-Logo_C_sharp.svg.png?20221121173824" height="50px"/></a>
+    <a href="https://learn.microsoft.com/de-de/dotnet/csharp/" target="_blank"><img src="https://learn.microsoft.com/de-de/dotnet/media/logo_csharp.png" height="50px"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a> 

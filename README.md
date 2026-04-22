@@ -1,3 +1,5 @@
+<img width="1500" height="75" alt="red_walk_8fps" src="https://github.com/user-attachments/assets/44abbe07-3955-435b-a570-5648c8d7959d" />
+
 ### Hi there 👋
 
 - 🔭 I’m currently working as a backend developer for _AIC Architekten Ingenieur Consult Köhler & Co. KG_
@@ -17,7 +19,6 @@
     <a href="https://unity.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" height="50px"/></a>
     <a href="https://tailwindcss.com" target="_blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg"/></a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="postman" width="45" height="45"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
 </p>
 <!--
